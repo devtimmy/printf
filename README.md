@@ -1,3 +1,3 @@
 C - Printf Group Project
-Written by
+Written by:
 Fatoye Timileyin & Martin Nyemba
